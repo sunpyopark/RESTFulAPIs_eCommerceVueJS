@@ -1,0 +1,6 @@
+install nodejs.
+install dependencies using npm install.
+create a databse in firebase.
+use the api key in project (firebaseconfig.js)
+also use the firebase link in firebaseconfig.js
+run the program using npm run serve .
